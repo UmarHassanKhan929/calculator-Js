@@ -1,3 +1,3 @@
 # calculator-Js
-basic calculator in Javascript  
+basic calculator made with HTML & Js
 https://kalkulathor.netlify.app/
